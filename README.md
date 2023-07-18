@@ -1,28 +1,26 @@
-👋***Hello World, I'm Stephane Menezes!***
-Olá, me chamo Stephane, sou estudante de ***Física*** na ***Universidade Federal do Ceará***, apaixonada por *exatas* e *tecnologia*. 
+👋🚀 ***Hello World, I'm Stephane Menezes!***
+Profissional de Dados, com 3 anos de experiência no mercado. Tenho habilidades sólidas em coleta, limpeza e análise de dados, bem como na identificação de padrões e tendências relevantes para a tomada de decisões. Ao longo da minha carreira, trabalhei em projetos desafiadores, lidando com grandes volumes de dados e utilizando ferramentas como Python, Pentaho, SQL e Power BI para coleta, tratamento e visualização de dados. 
 
-- 👩‍💻 Profissionao de Dados - EXPERIÊNCIA COM: 
+Atuando com clientes como: Royal Canin, Astrazeneca, Grupo Pardini e atualmente no Grupo de Comunicações Opovo. 
 
+- 👩‍💻 **Minha Habilidades:**
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> <img src="	https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> <img src=" https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-- <b> Já trabalhei com clientes como: Royal Canin, JBS, Simpar, Grupo Pardini, Grupo OPOVO de Comunicações.<b> 
-- 🚀  Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira; 
-- 🚀 Estudante de Python, R, Sql, Machine Larning 🧠
--  👾 Meus hobbies são: 
- -  - Livros e filmes #Pseudocinefíla.  🎥
- - -  Games 🎮
-- -  Viajar 🗺️
- - 📧 Stephanemenezes@fisica.ufc.br
- - Portfólio: https://github.com/StephaneMenezes/Portef-lio_Data_Science
- 
- - Artigos : 
- - Google Analytics Universal e suas principais Métricas:
- * https://diti.site/blog/entendendo-o-google-analytics-e-as-suas-principais-metricas/
- - Usando o Google Data Studio para a visualização de dados: 
- * https://diti.site/blog/usando-o-google-data-studio-para-a-visualizacao-de-dados/
- - Vantagens do GA4: 
- * https://diti.site/blog/vantagens-do-google-analytics-4/
- - SQL com Python no Google Colab: 
- * https://medium.com/@stephanemenezes/sql-com-python-no-google-colab-deb4b6f4b337
- 
-
+**Linguagens:**
+* <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
+* <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" >
+**Bancos:**
+* <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+* <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+* <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+* <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+**ETL:** 
+* <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
+* **PENTAHO DATA INTEGRATION**
+  
+**IDE:** 
+* <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+* <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-">
+**Analytics Tools:**
+* <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+* <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
+* <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
