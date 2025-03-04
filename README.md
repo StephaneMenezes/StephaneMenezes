@@ -5,7 +5,7 @@
  * 🚀 I work as an Analytics Engineer
 
 <div align="center">
-  <a href="https://www.github.com/StephaneMenezes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for-the-badge&color=1b63ca&labelColor=151b23" height="32" /></a>
+  <a href="https://www.github.com/StephaneMenezes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/StephaneMenezes?logo=github&style=for-the-badge&color=1b63ca&labelColor=151b23" height="32" /></a>
   <a href="https://linkedin.com/in/stephanemenezes/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="linkedin logo" /></a>
 </div>
 
