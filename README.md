@@ -37,9 +37,10 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=StephaneMenezes&locale=en&hide_title=false&layout=compact&bg_color=00000000&langs_count=10&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
 </div>
 
+<!-- 
 ## Popular Repositories
 
-<!-- 
+
 <div>
   <a href="https://github.com/alisonpezzott/calendar_periods_time_tables_power_bi"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendar_periods_time_tables_power_bi&bg_color=00000000&hide_border=true&locale=en" /></a>
 </div> 
