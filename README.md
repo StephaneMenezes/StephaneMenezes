@@ -2,7 +2,7 @@
 
  * 🧙‍♂️ My name is Stephane Menezes.
  * 👩‍🎓 I have a degree in Physics
- * 🚀 I work as an Analytics Engineer
+ * 🚀 I work as an Data Engineer
 
 <div align="center">
   <a href="https://www.github.com/StephaneMenezes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/StephaneMenezes?logo=github&style=for-the-badge&color=1b63ca&labelColor=151b23" height="32" /></a>
